@@ -1,0 +1,6 @@
+.toast {
+    background-color: orange;
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+}
